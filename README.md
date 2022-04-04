@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ___
 ### :man_technologist: About Me :
-- My name is Alexander
+- My name is Alexander.
 - 🖥 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
 - 🔭 I’m currently working on game  on react
