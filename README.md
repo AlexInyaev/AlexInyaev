@@ -30,7 +30,7 @@ ___
 - My name is Alexander.
 - 🖥 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
-- 🔭 I’m currently working on game  on react
+- 🔭 I’m currently working on game  on react.
 - 💻 I was developing a website for women's clothing store
 - 👯 I’m looking to collaborate on web development
 - :earth_africa: I have a pre - intermediate level of English
