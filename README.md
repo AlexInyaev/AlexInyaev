@@ -33,7 +33,7 @@ ___
 - 🔭 I’m currently working on game  on react.
 - 💻 I was developing a website for women's clothing store.
 - 👯 I’m looking to collaborate on web development.
-- :earth_africa: I have a pre - intermediate level of English
+- :earth_africa: I have a pre - intermediate level of English.
 - 💬 My email: Al.inyaev@yandex.ru
 ___
 ### :hammer_and_wrench: Languages and Tools :
